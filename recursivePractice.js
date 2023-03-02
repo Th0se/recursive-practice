@@ -43,7 +43,7 @@ console.log(fibonacciRecurse(8));
 
 const mergeSort = (array) => {
     /* Recursive form because I don't know how to do it via iteration.
-        That said, this is a good example of a recursive function.
+        That said, this is nevertheless an example of a recursive function.
     */
     if (array.length === 1) {
         return array;
